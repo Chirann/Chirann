@@ -1,6 +1,6 @@
 -  Hi, I’m @Chirann
--  I’m interested in EVERYTHING, especially in Physics and Music.
--  I’m currently learning Standard Model, QCD and some subject about HEP-ph.
+-  I’m interested in EVERYTHING, especially in Physics, Music and topics about AI.
+-  I’m working on Standard Model, QCD and some subject about HEP-ph.
 -  ALSO practising to play Chopin and Bach's works.
 -  You can contact me via e-mail: chirann@qq.com
 
